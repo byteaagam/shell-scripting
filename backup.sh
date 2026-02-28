@@ -2,7 +2,7 @@
 
 <<info
 This shell script will take periodic backups
-
+Periodic backups will be added using cron
 eg
 ./backup.sh <source> <dest>
 src /home/ubuntu/scripts
